@@ -4,7 +4,8 @@ Redux-saga is a very good tool for re-structure api calls in the project.
 
 This repository is a note for studying redux-saga.
 
-> [Reference Here](https://medium.freecodecamp.org/async-operations-using-redux-saga-2ba02ae077b3)
+> [Reference Here for React](https://medium.freecodecamp.org/async-operations-using-redux-saga-2ba02ae077b3)
+> [More for Vuex] (https://medium.com/@xanf/vuex-meets-redux-saga-e9c6b46555e)
 
 ### C0. Definitions
 
