@@ -22,6 +22,8 @@ This repository is a note for studying redux-saga.
 
 ### C2. Non-blocking (Synchronously)
 
+### C3. Non-sequence & Non-blocking
+
 ## License
 
 No License

@@ -24,19 +24,14 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <div>{this.props.count}</div>
-        <p className="App-intro">
-          <button onClick = {this.clickHandler}>Add One Sync</button>
-          <button>Add One Async</button>
-        </p>
-        <div>
+        <div style={{border: '3px solid green', margin: '10px auto', width: '600px'}}>
           <User></User>
         </div>
-        <div>
-          <Forecast></Forecast>
-        </div>
-        <div>
+        <div style={{border: '5px solid deeppink', margin: '30px auto', width: '600px'}}>
           <Schedule></Schedule>
+        </div>
+        <div style={{border: '5px solid deeppink', margin: '30px auto', width: '600px'}}>
+          <Forecast></Forecast>
         </div>
       </div>
     );

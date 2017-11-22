@@ -40,7 +40,7 @@ export default {
           member: 'Toyama Kasumi',
           time: 'T_T'
         })
-      }, 3000)
+      }, 8000)
     })
   }
 
