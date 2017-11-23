@@ -26,7 +26,7 @@ export default {
     return new Promise((resolve) => {
       setTimeout(() => {
         resolve({
-          date,
+          date: date,
           forecast: 'rain'
         })
       }, 3000)
